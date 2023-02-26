@@ -4,7 +4,7 @@ import { provideGlobalConfig } from '@element-plus/hooks'
 import { useFormSizeProp } from '@element-plus/components/form'
 
 import type { ExtractPropTypes } from 'vue'
-import type { ExperimentalFeatures } from '@element-plus/tokens'
+import type { ExperimentalFeatures } from '@element-plus/components/tokens'
 import type { Language } from '@element-plus/locale'
 import type { ButtonConfigContext } from '@element-plus/components/button'
 import type { MessageConfigContext } from '@element-plus/components/message'
